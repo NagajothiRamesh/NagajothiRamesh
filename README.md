@@ -4,7 +4,7 @@
 
 I'm a passionate on website creation, currently working on college final year project . I love to solve different kinds of code in Java. 
 
-- 🔭 I’m currently working on Traffic sign detection and voiceover assistance project using deeplearning.
+- 🔭 I’m currently working on the project Traffic sign detection and voiceover assistance using deeplearning.
 - 🌱 I’m currently learning python.
 - 💬 Ask me about in programming languages.
 - 📫 How to reach me: danamjothi1135626@gmail.com.
